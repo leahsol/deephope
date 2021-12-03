@@ -4,7 +4,6 @@
 
 [[코로나TALK-10] 코로나시대 빌게이츠가 주목한 분야, 앞으로 노벨상이 유력한 분야_석차옥 교수 - YouTube](https://www.youtube.com/watch?v=uogbYwPSsuQ&ab_channel=%EC%B9%B4%EC%98%A4%EC%8A%A4%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4)
 
-[AI for Drug Design - Lecture 16 - Deep Learning in the Life Sciences (Spring 2021) - YouTube](https://www.youtube.com/watch?v=AHVJv5RNqKs&ab_channel=ManolisKellis)
 
 # 3CL Protease 아미노 시퀀스
 
@@ -85,3 +84,8 @@ IC50는 기본적으로 친화도가 보고된 inhibitor(그것이 chemical이�
 # 실험 테스트
 
 대장균에서 SARS-CoV-2 3CL 프로테아제의 생산 가능하고 약물은 화학식을 보내서 주문하면 제작해서 보내 줌.
+3CL 프로테아제은 100UL에 70만원 정도 
+
+# 향 후 테스트 진행
+약을 디자인하는 것도 Graph Neural Networks와 GAN을 사용한 AI로 가능함
+[AI for Drug Design - Lecture 16 - Deep Learning in the Life Sciences (Spring 2021) - YouTube](https://www.youtube.com/watch?v=AHVJv5RNqKs&ab_channel=ManolisKellis)
